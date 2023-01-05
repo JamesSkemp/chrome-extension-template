@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "CHANGE_ME",
+    "description": "CHANGE_ME",
+    "version": "1.0",
+    "action": {
+        "default_popup": "src/index.html"
+    }
+}

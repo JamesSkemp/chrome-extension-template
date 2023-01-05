@@ -1,0 +1,5 @@
+node_modules
+
+# Parcel output directory
+dist/
+.parcel-cache/
