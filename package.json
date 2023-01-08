@@ -13,7 +13,7 @@
   "author": "James Skemp",
   "license": "CC0",
   "devDependencies": {
-    "chrome-types": "^0.1.160",
+    "@types/chrome": "^0.0.206",
     "parcel": "^2.8.2",
     "typescript": "^4.9.4"
   },
