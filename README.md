@@ -7,4 +7,5 @@
 	- repository
 	- author
 	- license
-3. `npm run build`
+3. `npm install`
+4. `npm run build`
